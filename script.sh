@@ -1,4 +1,4 @@
-echo "Hello this is just testing"
+echo "Hello this is second time testing"
 date 
 cal
 echo "complete"
