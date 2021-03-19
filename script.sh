@@ -3,3 +3,4 @@ date
 cal
 echo "complete"
 echo "new code added"
+echo "from github side for jenkins triggers"
